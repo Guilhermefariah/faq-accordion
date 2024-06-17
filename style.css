@@ -9,7 +9,7 @@ html{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #D4D4D4;
+    background: linear-gradient(blue, orange);
 }
 main{
     width: 655px;
