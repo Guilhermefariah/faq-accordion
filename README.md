@@ -2,6 +2,8 @@
 
 Este projeto demonstra uma funcionalidade simples de FAQ em estilo acordeão usando HTML, CSS e JavaScript. O efeito acordeão permite aos usuários expandir e recolher seções de conteúdo ao clicar nas perguntas.
 
+![texto alternativo](/FAQ.jpeg)
+
 ## Funcionalidades
 * Design responsivo
 * eção de FAQ em estilo acordeão
